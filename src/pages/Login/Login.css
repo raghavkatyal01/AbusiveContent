@@ -3,7 +3,7 @@
     /* background-image:url('BackgroundImage.jpg') ; */
     height: 100vh;
     width: 100vw;
-    background-image: url("./src/assets/bgImg.png");
+    background-image: url("src/assets/bgImg.png");
     display: flex;
     flex-direction: column;
     align-items: center;
