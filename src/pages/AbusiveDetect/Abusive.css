@@ -4,7 +4,7 @@
       width: 100vw;
       /* background: rgb(78, 59, 45); */
     /* background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(1,56,150,1) 43%, rgba(0,154,255,1) 100%); */
-    background-image: url("/Users/raghavkatyal/Documents/AbusiveContentDetection/FrontEnd/src/assets/bgImg.png");
+    background-image: url("./src/assets/bgImg.png");
       display: flex;
       flex-direction: column;
       align-items: center;
